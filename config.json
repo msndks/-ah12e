@@ -1,0 +1,30 @@
+
+{
+"inbounds": [
+{
+"port": 8080,
+"protocol": "trojan",
+"settings": {
+"clients": [
+{
+"id": "d2cb8181-233c-4d18-9972-8a1b04db0044",
+"level": 0
+}
+],
+"decryption": "none"
+},
+"streamSettings": {
+"network": "ws",
+"wsSettings": {
+"path": "/t.me/ahmed_5sA"
+}
+}
+}
+],
+"outbounds": [
+{
+"protocol": "freedom",
+"settings": {}
+}
+]
+}
