@@ -1,3 +1,4 @@
+config.json
 {
 "inbounds": [
 {
@@ -15,7 +16,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/Telegram/@ah12e/@/ahmed_5sA"
+"path": "/t.me/ahmed_5sA"
 }
 }
 }
